@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F1D362A1D385E2100333697 /* 1-131005005Q0321.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F1D36291D385E2100333697 /* 1-131005005Q0321.jpg */; };
 		0F66FACF1D3816FB0067277E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F66FACE1D3816FB0067277E /* AppDelegate.swift */; };
 		0F66FAD11D3816FB0067277E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F66FAD01D3816FB0067277E /* ViewController.swift */; };
 		0F66FAD41D3816FB0067277E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F66FAD21D3816FB0067277E /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F1D36291D385E2100333697 /* 1-131005005Q0321.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1-131005005Q0321.jpg"; sourceTree = "<group>"; };
 		0F66FACB1D3816FB0067277E /* calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F66FACE1D3816FB0067277E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0F66FAD01D3816FB0067277E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				0F66FAD51D3816FB0067277E /* Assets.xcassets */,
 				0F66FAD71D3816FB0067277E /* LaunchScreen.storyboard */,
 				0F66FADA1D3816FB0067277E /* Info.plist */,
+				0F1D36291D385E2100333697 /* 1-131005005Q0321.jpg */,
 			);
 			path = calculator;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				0F66FAD91D3816FB0067277E /* LaunchScreen.storyboard in Resources */,
 				0F66FAD61D3816FB0067277E /* Assets.xcassets in Resources */,
 				0F66FAD41D3816FB0067277E /* Main.storyboard in Resources */,
+				0F1D362A1D385E2100333697 /* 1-131005005Q0321.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -487,6 +491,7 @@
 				0F66FAF51D3816FC0067277E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F66FAF61D3816FC0067277E /* Build configuration list for PBXNativeTarget "calculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +500,7 @@
 				0F66FAF81D3816FC0067277E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F66FAF91D3816FC0067277E /* Build configuration list for PBXNativeTarget "calculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +509,7 @@
 				0F66FAFB1D3816FC0067277E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
